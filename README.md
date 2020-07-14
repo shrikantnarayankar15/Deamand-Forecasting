@@ -4,4 +4,4 @@ One of the largest retail chains in the world wants to use their vast data sourc
 
 However, no other information regarding stores and products are available. Can you still forecast accurately the sales values for every such product/SKU-store combination for the next 12 weeks accurately? If yes, then dive right in!
 
-
+![Test Image 4](https://github.com/shrikantnarayankar15/Deamand-Forecasting/blob/master/Screenshot%20from%202020-07-14%2019-23-38.png 193)
