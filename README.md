@@ -1,4 +1,4 @@
-# Demand-Forecasting
+# Demand-Forecasting (Private LeaderBoard - 9th Rank)
 JantaHack Demand Forecasting
 One of the largest retail chains in the world wants to use their vast data source to build an efficient forecasting model to predict the sales for each SKU in its portfolio at its 76 different stores using historical sales data for the past 3 years on a week-on-week basis. Sales and promotional information is also available for each week - product and store wise. 
 
